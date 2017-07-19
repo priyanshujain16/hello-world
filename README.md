@@ -1,2 +1,2 @@
 # hello-world
-My first Repository
+Hi, I am Priyanshu and currently pursuing engineering in Computer Science
